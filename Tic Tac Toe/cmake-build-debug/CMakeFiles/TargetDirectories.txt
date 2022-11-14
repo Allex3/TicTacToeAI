@@ -1,3 +1,0 @@
-C:/Users/40727/Desktop/Tic Tac Toe/cmake-build-debug/CMakeFiles/Tic_Tac_Toe.dir
-C:/Users/40727/Desktop/Tic Tac Toe/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/40727/Desktop/Tic Tac Toe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
